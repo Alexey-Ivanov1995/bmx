@@ -30,7 +30,7 @@
                         <a href="/"><img class="header__logo-img logo-size" src="./assets/img/logo.png" alt="logo"></a>
                     </div>
                 </div>
-                <div class="col-xl-6 d-xl-flex d-none p-0">
+                <div class="col-xl-6 d-xl-flex d-none p-0 justify-content-center">
                     <nav class="header__nav">
                         <ul class="header__nav-list d-flex justify-content-center mb-0">
                             <li class="header__nav-item  px-4">
@@ -79,8 +79,8 @@
                     <div class="col-md-8 footer__social">
                         <ul class="d-flex justify-content-md-end justify-content-center flex-wrap">
                             <li class="p-3"><a class="footer__icon" href="#"><i class="fa-brands fa-sourcetree"></i></a></li>
-                            <li class="p-3"><a class="footer__icon" href="#"><img width="20px" height="20px" src="https://png.pngtree.com/element_our/md/20180509/md_5af29f0c17b0f.jpg" alt=""></a></li>
-                            <li class="p-3"><a class="footer__icon" href="#"><img width="20px" height="20px" src="https://png.pngtree.com/element_our/md/20180509/md_5af29f0c17b0f.jpg" alt=""></a></li>
+                            <li class="p-3"><a class="footer__icon" href="#"><i class="fa-brands fa-sourcetree"></i></a></li>
+                            <li class="p-3"><a class="footer__icon" href="#"><i class="fa-brands fa-sourcetree"></i></a></li>
                         </ul>
                     </div>
                 </div>
